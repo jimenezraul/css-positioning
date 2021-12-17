@@ -54,5 +54,5 @@ header {
   /* TODO: Set the position so it is outside of the upper-right corner of Square 2 */
   position: absolute;
   top: 0;
-  right: -300px;
+  left: 700px;
 }
